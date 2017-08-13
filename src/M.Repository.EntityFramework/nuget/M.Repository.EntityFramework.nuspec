@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>M.Repository.EntityFramework</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>M.Repository.EntityFramework</title>
     <authors>Petar Marinov</authors>
     <owners>Petar Marinov</owners>
